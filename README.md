@@ -29,11 +29,11 @@
   <img align="center" alt="Brn-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
 <!--  CSS -->
   <img align="center" alt="Brn-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"> 
-<!-- Python -->
+<!-- Python 
   <img align="center" alt="Brn-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<!-- C -->
+      C 
   <img align="center" alt="Brn-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-</div><br>
+</div><br> -->
 
 <div align="left"> 
 <a href="https://github.com/brncoimbra?tab=repositories">
