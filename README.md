@@ -16,6 +16,7 @@
 </div>  
 
 ## 🧑‍💻 Minhas Skills!!!
+  
 <div align="left">
 <!--   JavaScript -->
   <img align="center" alt="Brn-Js" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,8 +34,9 @@
   <img align="center" alt="Brn-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
       C 
   <img align="center" alt="Brn-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-</div><br> -->
-
+</div> -->
+<br><br>
+  
 <div align="left"> 
 <a href="https://github.com/brncoimbra?tab=repositories">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brncoimbra&layout=compact&langs_count=7&theme=aura"/>
