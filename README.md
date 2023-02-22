@@ -1,66 +1,27 @@
-## Olá! Eu sou Bruno Coimbra 👋
+# Hello! I'm Bruno Coimbra 👋
 
-### Um pouco sobre mim! 😃
+### 💫 About Me:
+🔭 Looking for a first opportunity as a front-end developer<br>🌱 Studying React and Next.js<br>📫 Contact: brunoflsf@hotmail.com
+#
 
-- 🔭 Atualmente desempregado
-- 🌱 Estudando HTML, CSS, JavaScript e suas frameworks
-- 📫 Contato: brunoflsf@hotmail.com
+### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/brncoimbra/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brncoimbra/) 
+#
 
-##
+### 📊 GitHub Stats:
+<br/>
 
-<div align="center">
-  <a href="https://github.com/brncoimbra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brncoimbra&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-    
-  ![fast-typing](https://user-images.githubusercontent.com/57022639/145869281-a0ffcb24-b6b7-40ce-b65f-7e35e9bc0611.gif)
-</div>  
+![](https://github-readme-stats.vercel.app/api?username=brncoimbra&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+#
 
-## 🧑‍💻 Minhas Skills!!!
-  
-<div align="left">
-<!--   JavaScript -->
-  <img align="center" alt="Brn-Js" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<!--   TypeScript -->
-  <img align="center" alt="Brn-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<!--  NodeJs -->
- <img align="center" alt="Brn-Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<!--   React -->
-  <img align="center" alt="Brn-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<!--   Html -->
-  <img align="center" alt="Brn-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-<!--  CSS -->
-  <img align="center" alt="Brn-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"> 
-<!-- Python 
-  <img align="center" alt="Brn-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-      C 
-  <img align="center" alt="Brn-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-</div> -->
-<br><br>
-  
-<div align="left"> 
-<a href="https://github.com/brncoimbra?tab=repositories">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brncoimbra&layout=compact&langs_count=7&theme=aura"/>
-</a>
-</div>
+### 💻 Tech Stack:
+<br/>
 
-## 📲 Contatos:
-    
-<div> 
-  <a href = "mailto:bruninho.coimbra234@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href = "mailto:brunoflsf@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-  </a>
-  <a href = "https://www.instagram.com/brncoimbra/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.facebook.com/bruuniinho" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  </a> 
-  <a href="https://www.linkedin.com/in/bruno-coimbra-425b34221/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-  
-  ![Snake animation](https://github.com/brncoimbra/brncoimbra/blob/output/github-contribution-grid-snake.svg)
-  </div>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brncoimbra&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+#
+
+### 🐍 Snake commits:
+![Snake animation](https://github.com/brncoimbra/brncoimbra/blob/output/github-contribution-grid-snake.svg)
